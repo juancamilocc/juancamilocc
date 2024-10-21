@@ -20,8 +20,9 @@ Here you will find documentation in that explain step by step setup and operatio
 
 1. **[CI/CD Cycle Using Jenkins and ArgoCD in a Kubernetes Environment](https://github.com/juancamilocc/virtual_resources/wiki/configuration-cycle-cicd)**
 2. **[Deploying our first applications in Kubernetes with a CI/CD cycle using Jenkins and ArgoCD](https://github.com/juancamilocc/virtual_resources/wiki/deploy-first-app-cicd-cycle)**
-3. **[Add notifications in CI/CD Cycle](https://github.com/juancamilocc/virtual_resources/wiki/notifications-cicd-cycle)**
-4. **[Automated backup in jenkins](https://github.com/juancamilocc/virtual_resources/wiki/backups-jenkins)**
+3. **[Add notifications in CI/CD Cycle using Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/notifications-cicd-cycle)**
+4. **[Linters and Formatters in CI/CD Cycle using Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/linters-formatters-cicd-cycle)**
+5. **[Automated Backups in Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/backups-jenkins)**
 
 ### Other guides
 
