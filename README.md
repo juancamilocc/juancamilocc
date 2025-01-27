@@ -17,6 +17,7 @@ Here you will find documentation in that explain step by step setup and operatio
 3. **[Add notifications in CI/CD Cycle using Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/notifications-cicd-cycle)**
 4. **[Linters and Formatters in CI/CD Cycle using Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/linters-formatters-cicd-cycle)**
 5. **[Automated Backups in Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/backups-jenkins)**
+6. **[Vault in Kubernetes cluster with CSI plugin](https://github.com/juancamilocc/virtual_resources/wiki/vault-kubernetes-with-csi)**
 
 ### Other guides
 
