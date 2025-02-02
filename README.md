@@ -18,6 +18,7 @@ Here you will find documentation in that explain step by step setup and operatio
 4. **[Linters and Formatters in CI/CD Cycle using Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/linters-formatters-cicd-cycle)**
 5. **[Automated Backups in Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/backups-jenkins)**
 6. **[Vault in Kubernetes cluster with CSI plugin](https://github.com/juancamilocc/virtual_resources/wiki/vault-kubernetes-with-csi)**
+7. **[Auto-unseal Vault in Kubernetes environments](https://github.com/juancamilocc/virtual_resources/wiki/autounseal-vault)**
 
 ### Other guides
 
