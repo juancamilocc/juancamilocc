@@ -19,7 +19,8 @@ Here you will find documentation in that explain step by step setup and operatio
 5. **[Automated Backups in Jenkins](https://github.com/juancamilocc/virtual_resources/wiki/backups-jenkins)**
 6. **[Vault in Kubernetes cluster with CSI plugin](https://github.com/juancamilocc/virtual_resources/wiki/vault-kubernetes-with-csi)**
 7. **[Auto-unseal Vault in Kubernetes environments](https://github.com/juancamilocc/virtual_resources/wiki/autounseal-vault)**
-8. **[Deploy EC2 instance using Terraform with S3 as backend](https://github.com/juancamilocc/virtual_resources/wiki/deploy-ec2-using-terraform)**
+8. **[Automated Backups for Vault Server deployed with Raft storage](https://github.com/juancamilocc/virtual_resources/wiki/backups-vault)**
+9. **[Deploy EC2 instance using Terraform with S3 as backend](https://github.com/juancamilocc/virtual_resources/wiki/deploy-ec2-using-terraform)**
 
 ### Other guides
 
