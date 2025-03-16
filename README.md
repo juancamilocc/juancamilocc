@@ -8,7 +8,7 @@
 
 ## Useful Step by step guides
 
-Here you will find documentation in that explain step by step setup and operations to different topics referents to DevOps and others.
+Here you will find documentation in that explains step by step setup and operations to different topics related to DevOps and others.
 
 ### DevOps guides
 
@@ -21,6 +21,7 @@ Here you will find documentation in that explain step by step setup and operatio
 7. **[Auto-unseal Vault in Kubernetes environments](https://github.com/juancamilocc/virtual_resources/wiki/autounseal-vault)**
 8. **[Automated Backups for Vault Server deployed with Raft storage](https://github.com/juancamilocc/virtual_resources/wiki/backups-vault)**
 9. **[Deploy EC2 instance using Terraform with S3 as backend](https://github.com/juancamilocc/virtual_resources/wiki/deploy-ec2-using-terraform)**
+10. **[Jenkins job for Branch Backups](https://github.com/juancamilocc/virtual_resources/wiki/branch-backups)**
 
 ### Other guides
 
