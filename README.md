@@ -22,6 +22,7 @@ Here you will find documentation in that explains step by step setup and operati
 8. **[Automated Backups for Vault Server deployed with Raft storage](https://github.com/juancamilocc/virtual_resources/wiki/backups-vault)**
 9. **[Deploy EC2 instance using Terraform with S3 as backend](https://github.com/juancamilocc/virtual_resources/wiki/deploy-ec2-using-terraform)**
 10. **[Jenkins job for Branch Backups](https://github.com/juancamilocc/virtual_resources/wiki/branch-backups)**
+11. **[Customizing the Kubelet Service in Kubernetes Cluster](https://github.com/juancamilocc/virtual_resources/wiki/access-to-nodes)**
 
 ### Other guides
 
