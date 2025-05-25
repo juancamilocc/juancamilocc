@@ -24,6 +24,7 @@ Here you will find documentation in that explains step by step setup and operati
 10. **[Deploy EC2 instance using Terraform with S3 as backend](https://github.com/juancamilocc/virtual_resources/wiki/deploy-ec2-using-terraform)**
 11. **[Jenkins Job for Branch Backups](https://github.com/juancamilocc/virtual_resources/wiki/branch-backups)**
 12. **[Customizing the Kubelet Service in Kubernetes Cluster](https://github.com/juancamilocc/virtual_resources/wiki/access-to-nodes)**
+13. **[Setting Up EKS Auto Mode](https://github.com/juancamilocc/virtual_resources/wiki/eks-auto-mode)**
 
 ### Other guides
 
