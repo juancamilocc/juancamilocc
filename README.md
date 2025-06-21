@@ -25,6 +25,7 @@ Here you will find documentation in that explains step by step setup and operati
 11. **[Jenkins Job for Branch Backups](https://github.com/juancamilocc/virtual_resources/wiki/branch-backups)**
 12. **[Customizing the Kubelet Service in Kubernetes Cluster](https://github.com/juancamilocc/virtual_resources/wiki/access-to-nodes)**
 13. **[Setting Up EKS Auto Mode](https://github.com/juancamilocc/virtual_resources/wiki/eks-auto-mode)**
+14. **[ELK configuration to get Kubernetes logs using Filebeat](https://github.com/juancamilocc/virtual_resources/wiki/elk-configuration-filebeat)**
 
 ### Other guides
 
