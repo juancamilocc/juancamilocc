@@ -30,6 +30,11 @@ Here you will find documentation in that explains step by step setup and operati
 16. **[Launch ephemeral EC2 Agents using Jenkins and Terraform](https://github.com/juancamilocc/virtual_resources/wiki/launch-ephemeral-jenkins-agents)**
 17. **[Manage Dashboards in Kibana Using Spaces](https://github.com/juancamilocc/virtual_resources/wiki/spaces-kibana-dashboards)**
 
+## Useful Repositories
+
+1. **[ECR Cleaner](https://github.com/juancamilocc/ecr-cleaner)**
+2. **[Luanch Ephemeral Jenkins Agents](https://github.com/juancamilocc/launch-ephemeral-jenkins-agents)**
+
 ### Other guides
 
 1. **[End to End for Automated Deployment of Network Functions](https://github.com/juancamilocc/virtual_resources/wiki/end-to-end-network-func)**
